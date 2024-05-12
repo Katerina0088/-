@@ -1,0 +1,4 @@
+URL_PARS_SITE : "https://www.kinoafisha.info/rating/movies/"
+ADRESS_DATA_BASE : "films.db"
+PATH_LOGS : "app.log"
+PAGE_NUMBER: "1"
