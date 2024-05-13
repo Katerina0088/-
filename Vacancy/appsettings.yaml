@@ -1,0 +1,3 @@
+URL_PARS_SITE : "https://www.rabota.ru/"
+ADRESS_DATA_BASE : "vacancy.db"
+PATH_LOGS : "vacancy.log"

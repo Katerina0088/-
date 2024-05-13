@@ -1,0 +1,5 @@
+requests==2.26.0
+beautifulsoup4==4.10.0
+sqlalchemy==1.4.32
+PyYAML
+appsettings==0.8
